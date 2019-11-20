@@ -9,15 +9,15 @@ Samples from the original dataset as well as samples from the PixelCNN and Pixel
 
 # Samples from Original Dataset
 
-![figure 1](https://raw.github.com/JackBrady/Autoregressive_Models/master/samples/MNIST_Samples.png)
+![figure 1](https://raw.github.com/JackBrady/Autoregressive_Models/master/Samples/MNIST_Samples.png)
 
 # Samples from PixelCNN
 
-![figure 1](https://raw.github.com/JackBrady/Autoregressive_Models/master/samples/Pixel_CNN_Samples.png)
+![figure 1](https://raw.github.com/JackBrady/Autoregressive_Models/master/Samples/Pixel_CNN_Samples.png)
 
 # Samples from PixelCNN-MADE
 
-![figure 1](https://raw.github.com/JackBrady/Autoregressive_Models/master/samples/Pixel_CNN_MADE_Samples.png)
+![figure 1](https://raw.github.com/JackBrady/Autoregressive_Models/master/Samples/Pixel_CNN_MADE_Samples.png)
 
 
 
