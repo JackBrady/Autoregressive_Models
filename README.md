@@ -1,5 +1,5 @@
 # Autoregressive Models
-This repo is a Pytorch implementation of the autoregressive models assignment from Dr. Pieter Abbeel's CS 294-158 Deep Unsupervised Learning. 
+This repo is a PyTorch implementation of the autoregressive models assignment from Dr. Pieter Abbeel's CS 294-158 Deep Unsupervised Learning. 
 The assignment description can be found in the included PDF.
 
 The [PixelCNN](https://arxiv.org/abs/1601.06759) and [MADE](https://arxiv.org/abs/1502.03509) architectures were the primary focus of 
