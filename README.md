@@ -3,7 +3,7 @@ This repo is a PyTorch implementation of the autoregressive models assignment fr
 The assignment description can be found in the included PDF.
 
 The [PixelCNN](https://arxiv.org/abs/1601.06759) and [MADE](https://arxiv.org/abs/1502.03509) architectures were the primary focus of 
-this project with the final model being a combination of the two. This model uses a PixelCNN to model dependencies between pixels, and a MADE to model dependencies between color channels, taking the PixelCNN's output as an auxillary input. The models were trained on color MNIST digits.
+this project with the final model being a combination of the two. This model uses a PixelCNN to model dependencies between pixels, and a MADE to model dependencies between color channels, taking the PixelCNN's output as an auxillary input. The models were trained on colored MNIST digits.
 
 Samples from the original dataset as well as samples from the PixelCNN and PixelCNN-MADE can be seen below:
 
